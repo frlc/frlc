@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts](https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html)
+- [New Report: Unveiling the Threat of Malicious Browser Extensions](https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html)
+- [Sierra:21 - Flaws in Sierra Wireless Routers Expose Critical Sectors to Cyber Attacks](https://thehackernews.com/2023/12/sierra21-flaws-in-sierra-wireless.html)
+- [Scaling Security Operations with Automation](https://thehackernews.com/2023/12/scaling-security-operations-with.html)
+- [Hackers Exploited ColdFusion Vulnerability to Breach Federal Agency Servers](https://thehackernews.com/2023/12/hackers-exploited-coldfusion.html)
 <!-- BLOG-POST-LIST:END -->
