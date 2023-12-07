@@ -20,7 +20,7 @@ This is my repository where I test code and try not to break my code :rofl:
 
 I am a Software Test Engineer with emphasis on automation. 9+ years of experience.
 
-# Blog posts
+# Security News
 <!-- BLOG-POST-LIST:START -->
 - [Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts](https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html)
 - [New Report: Unveiling the Threat of Malicious Browser Extensions](https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html)
