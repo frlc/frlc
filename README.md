@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
-- [Webinar — Psychology of Social Engineering: Decoding the Mind of a Cyber Attacker](https://thehackernews.com/2023/12/webinar-psychology-of-social.html)
+- [Playbook: Your First 100 Days as a vCISO - 5 Steps to Success](https://thehackernews.com/2023/12/playbook-your-first-100-days-as-vciso-5.html)
 - [SpyLoan Scandal: 18 Malicious Loan Apps Defraud Millions of Android Users](https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html)
+- [Webinar — Psychology of Social Engineering: Decoding the Mind of a Cyber Attacker](https://thehackernews.com/2023/12/webinar-psychology-of-social.html)
 - [New PoolParty Process Injection Techniques Outsmart Top EDR Solutions](https://thehackernews.com/2023/12/new-poolparty-process-injection.html)
 - [SLAM Attack: New Spectre-based Vulnerability Impacts Intel, AMD, and Arm CPUs](https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html)
-- [Researchers Unveil GuLoader Malware&#39;s Latest Anti-Analysis Techniques](https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html)
 <!-- BLOG-POST-LIST:END -->
