@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service](https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html)
 - [Most Sophisticated iPhone Hack Ever Exploited Apple&#39;s Hidden Hardware Feature](https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html)
 - [New Rugmi Malware Loader Surges with Hundreds of Daily Detections](https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html)
 - [Critical Zero-Day in Apache OfBiz ERP System Exposes Businesses to Attack](https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html)
 - [Chinese Hackers Exploited New Zero-Day in Barracuda&#39;s ESG Appliances](https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html)
-- [New Sneaky Xamalicious Android Malware Hits Over 327,000 Devices](https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html)
 <!-- BLOG-POST-LIST:END -->
