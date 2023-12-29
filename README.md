@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Albanian Parliament and One Albania Telecom Hit by Cyber Attacks](https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html)
 - [CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK](https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html)
 - [Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks](https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html)
 - [Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks](https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html)
 - [Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service](https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html)
-- [Most Sophisticated iPhone Hack Ever Exploited Apple&#39;s Hidden Hardware Feature](https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html)
 <!-- BLOG-POST-LIST:END -->
