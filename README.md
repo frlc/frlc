@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Malware Using Google MultiLogin Exploit to Maintain Access Despite Password Reset](https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html)
 - [5 Ways to Reduce SaaS Security Risks](https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html)
 - [SMTP Smuggling: New Flaw Lets Attackers Bypass Security and Spoof Emails](https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html)
 - [DOJ Slams XCast with $10 Million Fine Over Massive Illegal Robocall Operation](https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html)
 - [The Definitive Enterprise Browser Buyer&#39;s Guide](https://thehackernews.com/2024/01/the-definitive-enterprise-browser.html)
-- [Google Settles $5 Billion Privacy Lawsuit Over Tracking Users in &#39;Incognito Mode&#39;](https://thehackernews.com/2024/01/google-settles-5-billion-privacy.html)
 <!-- BLOG-POST-LIST:END -->
