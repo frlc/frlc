@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack](https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html)
 - [Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware](https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html)
 - [Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe](https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html)
 - [Why Public Links Expose Your SaaS Attack Surface](https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html)
 - [Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager](https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html)
-- [Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer](https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html)
 <!-- BLOG-POST-LIST:END -->
