@@ -22,7 +22,7 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
-- [Chinese Hackers Exploiting VPN Flaws to Deploy KrustyLoader Malware](https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html)
+- [Hackers Exploiting Ivanti VPN Flaws to Deploy KrustyLoader Malware](https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html)
 - [New Glibc Flaw Grants Attackers Root Access on Major Linux Distros](https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html)
 - [Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives](https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html)
 - [URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite](https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html)
