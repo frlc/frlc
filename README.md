@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Russian Turla Hackers Target Polish NGOs with New TinyTurla-NG Backdoor](https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html)
+- [Ivanti Pulse Secure Found Using 11-Year-Old Linux Version and Outdated Libraries](https://thehackernews.com/2024/02/ivanti-pulse-secure-found-using-11-year.html)
 - [How Nation-State Actors Target Your Business: New Research Exposes Major SaaS Vulnerabilities](https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html)
 - [Chinese Hackers Using Deepfakes in Advanced Mobile Banking Malware Attacks](https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html)
 - [Critical Exchange Server Flaw &lpar;CVE-2024-21410&rpar; Under Active Exploitation](https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html)
-- [Microsoft, OpenAI Warn of Nation-State Hackers Weaponizing AI for Cyber Attacks](https://thehackernews.com/2024/02/microsoft-openai-warn-of-nation-state.html)
-- [Ubuntu &#39;command-not-found&#39; Tool Could Trick Users into Installing Rogue Packages](https://thehackernews.com/2024/02/ubuntu-command-not-found-tool-could.html)
 <!-- BLOG-POST-LIST:END -->
