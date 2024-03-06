@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Alert: GhostSec and Stormous Launch Joint Ransomware Attacks in Over 15 Countries](https://thehackernews.com/2024/03/alert-ghostsec-and-stormous-launch.html)
+- [New APT Group &#39;Lotus Bane&#39; Behind Recent Attacks on Vietnam&#39;s Financial Entities](https://thehackernews.com/2024/03/new-apt-group-lotus-bane-behind-recent.html)
 - [Urgent: Apple Issues Critical Updates for Actively Exploited Zero-Day Flaws](https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html)
 - [Hackers Exploit ConnectWise ScreenConnect Flaws to Deploy TODDLERSHARK Malware](https://thehackernews.com/2024/03/hackers-exploit-connectwise.html)
 - [What is Exposure Management and How Does it Differ from ASM?](https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html)
-- [Cybercriminals Using Novel DNS Hijacking Technique for Investment Scams](https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html)
-- [Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets](https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html)
 <!-- BLOG-POST-LIST:END -->
