@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets](https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html)
 - [Meta Details WhatsApp and Messenger Interoperability to Comply with EU&#39;s DMA Regulations](https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html)
 - [Secrets Sensei: Conquering Secrets Management Challenges](https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html)
 - [Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client](https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html)
 - [QEMU Emulator Exploited as Tunneling Tool to Breach Company Network](https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html)
-- [CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability](https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html)
 <!-- BLOG-POST-LIST:END -->
