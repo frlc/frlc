@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub](https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html)
 - [Microsoft&#39;s March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws](https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html)
 - [Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets](https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html)
 - [CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management](https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html)
 - [Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites](https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html)
-- [South Korean Citizen Detained in Russia on Cyber Espionage Charges](https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html)
 <!-- BLOG-POST-LIST:END -->
