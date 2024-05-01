@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Android Malware Wpeeper Uses Compromised WordPress Sites to Hide C2 Servers](https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html)
 - [Everyone&#39;s an Expert: How to Empower Your Employees for Cybersecurity Success](https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html)
 - [ZLoader Malware Evolves with Anti-Analysis Trick from Zeus Banking Trojan](https://thehackernews.com/2024/05/zloader-malware-evolves-with-anti.html)
 - [Ex-NSA Employee Sentenced to 22 Years for Trying to Sell U.S. Secrets to Russia](https://thehackernews.com/2024/05/ex-nsa-employee-sentenced-to-22-years.html)
 - [Millions of Malicious &#39;Imageless&#39; Containers Planted on Docker Hub Over 5 Years](https://thehackernews.com/2024/04/millions-of-malicious-imageless.html)
-- [U.S. Government Releases New AI Security Guidelines for Critical Infrastructure](https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html)
 <!-- BLOG-POST-LIST:END -->
