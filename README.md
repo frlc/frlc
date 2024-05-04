@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Outlook Flaw Exploited by Russia&#39;s APT28 to Hack Czech, German Entities](https://thehackernews.com/2024/05/microsoft-outlook-flaw-exploited-by.html)
 - [Expert-Led Webinar - Uncovering Latest DDoS Tactics and Learn How to Fight Back](https://thehackernews.com/2024/05/expert-led-webinar-learn-latest-ddos.html)
 - [Hackers Increasingly Abusing Microsoft Graph API for Stealthy Malware Communications](https://thehackernews.com/2024/05/hackers-increasingly-abusing-microsoft.html)
 - [New Guide Explains How to Eliminate the Risk of Shadow SaaS and Protect Corporate Data](https://thehackernews.com/2024/05/new-guide-explains-how-to-eliminate.html)
 - [NSA, FBI Alert on N. Korean Hackers Spoofing Emails from Trusted Sources](https://thehackernews.com/2024/05/nsa-fbi-alert-on-n-korean-hackers.html)
-- [Google Announces Passkeys Adopted by Over 400 Million Accounts](https://thehackernews.com/2024/05/google-announces-passkeys-adopted-by.html)
 <!-- BLOG-POST-LIST:END -->
