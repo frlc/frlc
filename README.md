@@ -25,6 +25,6 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 - [CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros &lpar;Webinar&rpar;](https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html)
 - [Chrome Zero-Day Alert — Update Your Browser to Patch New Vulnerability](https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html)
 - [What&#39;s the Right EDR for You?](https://thehackernews.com/2024/05/whats-right-edr-for-you.html)
-- [Malicious Android Apps Pose as Google, Instagram, WhatsApp, to Steal Credentials](https://thehackernews.com/2024/05/malicious-android-apps-pose-as-google.html)
+- [Malicious Android Apps Pose as Google, Instagram, WhatsApp to Steal Credentials](https://thehackernews.com/2024/05/malicious-android-apps-pose-as-google.html)
 - [Researchers Uncover &#39;LLMjacking&#39; Scheme Targeting Cloud-Hosted AI Models](https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html)
 <!-- BLOG-POST-LIST:END -->
