@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Critical GitHub Enterprise Server Flaw Allows Authentication Bypass](https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html)
 - [Malware Delivery via Cloud Services Exploits Unicode Trick to Deceive Users](https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html)
 - [SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure](https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html)
 - [Five Core Tenets Of Highly Effective DevSecOps Practices](https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html)
 - [Researchers Uncover Flaws in Python Package for AI Models and PDF.js Used by Firefox](https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html)
-- [Streamlining IT Security Compliance Using the Wazuh FIM Capability](https://thehackernews.com/2024/05/streamlining-it-security-compliance.html)
 <!-- BLOG-POST-LIST:END -->
