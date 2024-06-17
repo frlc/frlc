@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices](https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html)
+- [What is DevSecOps and Why is it Essential for Secure Software Delivery?](https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html)
 - [Hackers Exploit Legitimate Websites to Deliver BadSpace Windows Backdoor](https://thehackernews.com/2024/06/hackers-exploit-legitimate-websites-to.html)
 - [NiceRAT Malware Targets South Korean Users via Cracked Software](https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html)
 - [U.K. Hacker Linked to Notorious Scattered Spider Group Arrested in Spain](https://thehackernews.com/2024/06/uk-hacker-linked-to-notorious-scattered.html)
-- [Grandoreiro Banking Trojan Hits Brazil as Smishing Scams Surge in Pakistan](https://thehackernews.com/2024/06/grandoreiro-banking-trojan-hits-brazil.html)
-- [Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks](https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html)
 <!-- BLOG-POST-LIST:END -->
