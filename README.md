@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [The Power and Peril of RMM Tools](https://thehackernews.com/2024/07/the-power-and-peril-of-rmm-tools.html)
 - [Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware](https://thehackernews.com/2024/07/cybercriminals-target-polish-businesses.html)
 - [Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground](https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html)
 - [New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries](https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html)
 - [OneDrive Phishing Scam Tricks Users into Running Malicious PowerShell Script](https://thehackernews.com/2024/07/onedrive-phishing-scam-tricks-users.html)
-- [VMware ESXi Flaw Exploited by Ransomware Groups for Admin Access](https://thehackernews.com/2024/07/vmware-esxi-flaw-exploited-by.html)
 <!-- BLOG-POST-LIST:END -->
