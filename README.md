@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware](https://thehackernews.com/2024/07/cybercriminals-target-polish-businesses.html)
+- [Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground](https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html)
 - [New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries](https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html)
 - [OneDrive Phishing Scam Tricks Users into Running Malicious PowerShell Script](https://thehackernews.com/2024/07/onedrive-phishing-scam-tricks-users.html)
 - [VMware ESXi Flaw Exploited by Ransomware Groups for Admin Access](https://thehackernews.com/2024/07/vmware-esxi-flaw-exploited-by.html)
-- [Critical Flaw in Acronis Cyber Infrastructure Exploited in the Wild](https://thehackernews.com/2024/07/critical-flaw-in-acronis-cyber.html)
-- [Proofpoint Email Routing Flaw Exploited to Send Millions of Spoofed Phishing Emails](https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html)
 <!-- BLOG-POST-LIST:END -->
