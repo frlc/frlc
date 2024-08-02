@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: Discover the All-in-One Cybersecurity Solution for SMBs](https://thehackernews.com/2024/08/webinar-discover-all-in-one.html)
 - [Mirai Botnet targeting OFBiz Servers Vulnerable to Directory Traversal](https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html)
 - [New Windows Backdoor BITSLOTH Exploits BITS for Stealthy Communication](https://thehackernews.com/2024/08/new-windows-backdoor-bitsloth-exploits.html)
 - [U.S. Releases High-Profile Russian Hackers in Diplomatic Prisoner Exchange](https://thehackernews.com/2024/08/us-releases-high-profile-russian.html)
 - [Cybercriminals Abusing Cloudflare Tunnels to Evade Detection and Spread Malware](https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html)
-- [Over 1 Million Domains at Risk of &#39;Sitting Ducks&#39; Domain Hijacking Technique](https://thehackernews.com/2024/08/over-1-million-domains-at-risk-of.html)
 <!-- BLOG-POST-LIST:END -->
