@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Patches Zero-Day Flaw Exploited by North Korea’s Lazarus Group](https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html)
 - [Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group](https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html)
 - [OpenAI Blocks Iranian Influence Operation Using ChatGPT for U.S. Election Propaganda](https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html)
 - [Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign](https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html)
 - [Russian Hacker Jailed 3+ Years for Selling Stolen Credentials on Dark Web](https://thehackernews.com/2024/08/russian-hacker-jailed-3-years-for.html)
-- [Russian Hackers Using Fake Brand Sites to Spread DanaBot and StealC Malware](https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html)
 <!-- BLOG-POST-LIST:END -->
