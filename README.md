@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Threat Actors Deploy COVERTCATCH Malware via LinkedIn Job Scams](https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html)
 - [FBI Cracks Down on Dark Web Marketplace Managed by Russian and Kazakh Nationals](https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html)
 - [SonicWall Urges Users to Patch Critical Firewall Flaw Amid Possible Exploitation](https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html)
 - [GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware](https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html)
 - [GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code](https://thehackernews.com/2024/09/github-actions-vulnerable-to.html)
-- [The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2025](https://thehackernews.com/2024/09/the-state-of-virtual-ciso-report.html)
 <!-- BLOG-POST-LIST:END -->
