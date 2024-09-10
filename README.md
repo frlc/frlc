@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub](https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html)
 - [Experts Identify 3 Chinese-Linked Clusters Behind Cyberattacks in Southeast Asia](https://thehackernews.com/2024/09/experts-identify-3-chinese-linked.html)
 - [Shining a Light on Shadow Apps: The Invisible Gateway to SaaS Data Breaches](https://thehackernews.com/2024/09/shining-light-on-shadow-apps-invisible.html)
 - [New PIXHELL Attack Exploits Screen Noise to Exfiltrates Data from Air-Gapped Computers](https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html)
 - [Mustang Panda Deploys Advanced Malware to Spy on Asia-Pacific Governments](https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html)
-- [New RAMBO Attack Uses RAM Radio Signals to Steal Data from Air-Gapped Networks](https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html)
 <!-- BLOG-POST-LIST:END -->
