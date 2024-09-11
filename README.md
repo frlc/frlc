@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Why Is It So Challenging to Go Passwordless?](https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html)
 - [Developers Beware: Lazarus Group Uses Fake Coding Tests to Spread Malware](https://thehackernews.com/2024/09/developers-beware-lazarus-group-uses.html)
 - [Microsoft Issues Patches for 79 Flaws, Including 3 Actively Exploited Windows Flaws](https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html)
 - [Ivanti Releases Urgent Security Updates for Endpoint Manager Vulnerabilities](https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html)
 - [CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub](https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html)
-- [Experts Identify 3 Chinese-Linked Clusters Behind Cyberattacks in Southeast Asia](https://thehackernews.com/2024/09/experts-identify-3-chinese-linked.html)
 <!-- BLOG-POST-LIST:END -->
