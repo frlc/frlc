@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [CISA Flags Critical Ivanti vTM Vulnerability Amid Active Exploitation Concerns](https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html)
 - [Necro Android Malware Found in Popular Camera and Browser Apps on Play Store](https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html)
 - [U.S. Proposes Ban on Connected Vehicles Using Chinese and Russian Tech](https://thehackernews.com/2024/09/us-proposes-ban-on-connected-vehicles.html)
 - [Discover Latest Ransomware Tactics and Zero Trust Strategies in This Expert Webinar](https://thehackernews.com/2024/09/discover-latest-ransomware-tactics-and.html)
 - [Kaspersky Exits U.S., Automatically Replaces Software With UltraAV, Raising Concerns](https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html)
-- [The SSPM Justification Kit](https://thehackernews.com/2024/09/the-sspm-justification-kit.html)
 <!-- BLOG-POST-LIST:END -->
