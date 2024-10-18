@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Beware: Fake Google Meet Pages Deliver Infostealers in Ongoing ClickFix Campaign](https://thehackernews.com/2024/10/beware-fake-google-meet-pages-deliver.html)
 - [Microsoft Reveals macOS Vulnerability that Bypasses Privacy Controls in Safari Browser](https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html)
 - [Russian RomCom Attacks Target Ukrainian Government with New SingleCamper RAT Variant](https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html)
 - [Researchers Uncover Cicada3301 Ransomware Operations and Its Affiliate Program](https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html)
 - [5 Ways to Reduce SaaS Security Risks](https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html)
-- [SideWinder APT Strikes Middle East and Africa With Stealthy Multi-Stage Attack](https://thehackernews.com/2024/10/sidewinder-apt-strikes-middle-east-and.html)
 <!-- BLOG-POST-LIST:END -->
