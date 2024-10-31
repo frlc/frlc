@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics](https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html)
+- [LottieFiles Issues Warning About Compromised &quot;lottie-player&quot; npm Package](https://thehackernews.com/2024/10/lottiefiles-issues-warning-about.html)
 - [Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities](https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html)
 - [LiteSpeed Cache Plugin Vulnerability Poses Significant Risk to WordPress Websites](https://thehackernews.com/2024/10/litespeed-cache-plugin-vulnerability.html)
 - [North Korean Group Collaborates with Play Ransomware in Significant Cyber Attack](https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html)
-- [Opera Browser Fixes Big Security Hole That Could Have Exposed Your Information](https://thehackernews.com/2024/10/opera-browser-fixes-big-security-hole.html)
-- [Malvertising Campaign Hijacks Facebook Accounts to Spread SYS01stealer Malware](https://thehackernews.com/2024/10/malvertising-campaign-hijacks-facebook.html)
 <!-- BLOG-POST-LIST:END -->
