@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Fixes 90 New Flaws, Including Actively Exploited NTLM and Task Scheduler Bugs](https://thehackernews.com/2024/11/microsoft-fixes-90-new-vulnerabilities.html)
 - [New Flaws in Citrix Virtual Apps Enable RCE Attacks via MSMQ Misconfiguration](https://thehackernews.com/2024/11/new-flaws-in-citrix-virtual-apps-enable.html)
 - [New Phishing Tool GoIssue Targets GitHub Developers in Bulk Email Campaigns](https://thehackernews.com/2024/11/new-phishing-tool-goissue-targets.html)
 - [North Korean Hackers Target macOS Using Flutter-Embedded Malware](https://thehackernews.com/2024/11/north-korean-hackers-target-macos-using.html)
 - [5 Ways Behavioral Analytics is Revolutionizing Incident Response](https://thehackernews.com/2024/11/5-ways-behavioral-analytics-is.html)
-- [New Ymir Ransomware Exploits Memory for Stealthy Attacks; Targets Corporate Networks](https://thehackernews.com/2024/11/new-ymir-ransomware-exploits-memory-for.html)
 <!-- BLOG-POST-LIST:END -->
