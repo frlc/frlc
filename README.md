@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Target Uyghurs and Tibetans with MOONSHINE Exploit and DarkNimbus Backdoor](https://thehackernews.com/2024/12/hackers-target-uyghurs-and-tibetans.html)
+- [Critical Mitel MiCollab Flaw Exposes Systems to Unauthorized File and Admin Access](https://thehackernews.com/2024/12/critical-mitel-micollab-flaw-exposes.html)
+- [Europol Shuts Down Manson Market Fraud Marketplace, Seizes 50 Servers](https://thehackernews.com/2024/12/europol-shuts-down-manson-market-fraud.html)
 - [Want to Grow Vulnerability Management into Exposure Management? Start Here!](https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html)
+- [Hackers Target Uyghurs and Tibetans with MOONSHINE Exploit and DarkNimbus Backdoor](https://thehackernews.com/2024/12/hackers-target-uyghurs-and-tibetans.html)
 - [Researchers Uncover 4-Month Cyberattack on U.S. Firm Linked to Chinese Hackers](https://thehackernews.com/2024/12/researchers-uncover-4-month-cyberattack.html)
-- [ANEL and NOOPDOOR Backdoors Weaponized in New MirrorFace Campaign Against Japan](https://thehackernews.com/2024/12/anel-and-noopdoor-backdoors-weaponized.html)
-- [NCA Busts Russian Crypto Networks Laundering Funds and Evading Sanctions](https://thehackernews.com/2024/12/nca-busts-russian-crypto-networks.html)
 <!-- BLOG-POST-LIST:END -->
