@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Cleo File Transfer Vulnerability Under Exploitation – Patch Pending, Mitigation Urged](https://thehackernews.com/2024/12/cleo-file-transfer-vulnerability-under.html)
 - [Fake Recruiters Distribute Banking Trojan via Malicious Apps in Phishing Scam](https://thehackernews.com/2024/12/fake-recruiters-distribute-banking.html)
 - [The Future of Network Security: Automated Internal and External Pentesting](https://thehackernews.com/2024/12/the-future-of-network-security.html)
 - [Phone Phishing Gang Busted: Eight Arrested in Belgium and Netherlands](https://thehackernews.com/2024/12/phone-phishing-gang-busted-eight.html)
 - [Hackers Weaponize Visual Studio Code Remote Tunnels for Cyber Espionage](https://thehackernews.com/2024/12/hackers-weaponize-visual-studio-code.html)
-- [Ongoing Phishing and Malware Campaigns in December 2024](https://thehackernews.com/2024/12/ongoing-phishing-and-malware-campaigns.html)
 <!-- BLOG-POST-LIST:END -->
