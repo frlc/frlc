@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Fixes 72 Flaws, Including Patch for Actively Exploited CLFS Vulnerability](https://thehackernews.com/2024/12/microsoft-fixes-72-flaws-including.html)
 - [U.S. Charges Chinese Hacker for Exploiting Zero-Day in 81,000 Sophos Firewalls](https://thehackernews.com/2024/12/us-charges-chinese-hacker-for.html)
 - [Ivanti Issues Critical Security Updates for CSA and Connect Secure Vulnerabilities](https://thehackernews.com/2024/12/ivanti-issues-critical-security-updates.html)
 - [Cleo File Transfer Vulnerability Under Exploitation – Patch Pending, Mitigation Urged](https://thehackernews.com/2024/12/cleo-file-transfer-vulnerability-under.html)
 - [Fake Recruiters Distribute Banking Trojan via Malicious Apps in Phishing Scam](https://thehackernews.com/2024/12/fake-recruiters-distribute-banking.html)
-- [The Future of Network Security: Automated Internal and External Pentesting](https://thehackernews.com/2024/12/the-future-of-network-security.html)
 <!-- BLOG-POST-LIST:END -->
