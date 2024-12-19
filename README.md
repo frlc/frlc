@@ -22,7 +22,7 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
-- [HubPhish Exploits HubSpot Tools to Target 20,000 European Users for Credential Theft](https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html)
+- [HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft](https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html)
 - [Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected](https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html)
 - [Not Your Old ActiveState: Introducing our End-to-End OS Platform](https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html)
 - [APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP](https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html)
