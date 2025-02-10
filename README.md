@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Zimbra Releases Security Updates for SQL Injection, Stored XSS, and SSRF Vulnerabilities](https://thehackernews.com/2025/02/zimbra-releases-security-updates-for.html)
 - [XE Hacker Group Exploits VeraCore Zero-Day to Deploy Persistent Web Shells](https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html)
 - [Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade Detection](https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html)
 - [DeepSeek App Transmits Sensitive User and Device Data Without Encryption](https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html)
 - [CISA Warns of Active Exploits Targeting Trimble Cityworks Vulnerability](https://thehackernews.com/2025/02/cisa-warns-of-active-exploitation-in.html)
-- [AI-Powered Social Engineering: Reinvented Threats](https://thehackernews.com/2025/02/ai-powered-social-engineering.html)
 <!-- BLOG-POST-LIST:END -->
