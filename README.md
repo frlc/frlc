@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Offers Security Benefits – But Don&#39;t Neglect Your Passwords](https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html)
 - [Critical Erlang/OTP SSH Vulnerability &lpar;CVSS 10.0&rpar; Allows Unauthenticated Code Execution](https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html)
 - [Node.js Malware Campaign Targets Crypto Users with Fake Binance and TradingView Installers](https://thehackernews.com/2025/04/nodejs-malware-campaign-targets-crypto.html)
 - [CISA Flags Actively Exploited Vulnerability in SonicWall SMA Devices](https://thehackernews.com/2025/04/cisa-flags-actively-exploited.html)
 - [Apple Patches Two Actively Exploited iOS Flaws Used in Sophisticated Targeted Attacks](https://thehackernews.com/2025/04/apple-patches-two-actively-exploited.html)
-- [New Windows Task Scheduler Bugs Let Attackers Bypass UAC and Tamper with Logs](https://thehackernews.com/2025/04/experts-uncover-four-new-privilege.html)
 <!-- BLOG-POST-LIST:END -->
