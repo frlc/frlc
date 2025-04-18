@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT](https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html)
 - [CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download](https://thehackernews.com/2025/04/cve-2025-24054-under-active.html)
 - [Mustang Panda Targets Myanmar With StarProxy, EDR Bypass, and TONESHELL Updates](https://thehackernews.com/2025/04/mustang-panda-targets-myanmar-with.html)
 - [State-Sponsored Hackers Weaponize ClickFix Tactic in Targeted Malware Campaigns](https://thehackernews.com/2025/04/state-sponsored-hackers-weaponize.html)
 - [Artificial Intelligence – What&#39;s all the fuss?](https://thehackernews.com/2025/04/artificial-intelligence-whats-all-fuss.html)
-- [Critical Erlang/OTP SSH Vulnerability &lpar;CVSS 10.0&rpar; Allows Unauthenticated Code Execution](https://thehackernews.com/2025/04/critical-erlangotp-ssh-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
