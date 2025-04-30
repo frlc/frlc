@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Indian Court Orders Action to Block Proton Mail Over AI Deepfake Abuse Allegations](https://thehackernews.com/2025/04/indian-court-orders-action-to-block.html)
 - [WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy](https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html)
 - [New Reports Uncover Jailbreaks, Unsafe Code, and Data Theft Risks in Leading AI Systems](https://thehackernews.com/2025/04/new-reports-uncover-jailbreaks-unsafe.html)
 - [SentinelOne Uncovers Chinese Espionage Campaign Targeting Its Infrastructure and Clients](https://thehackernews.com/2025/04/sentinelone-uncovers-chinese-espionage.html)
 - [Product Walkthrough: Securing Microsoft Copilot with Reco](https://thehackernews.com/2025/04/product-walkthrough-securing-microsoft.html)
-- [Google Reports 75 Zero-Days Exploited in 2024 — 44% Targeted Enterprise Security Products](https://thehackernews.com/2025/04/google-reports-75-zero-days-exploited.html)
 <!-- BLOG-POST-LIST:END -->
