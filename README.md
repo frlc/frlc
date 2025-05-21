@@ -22,9 +22,9 @@ I am a Software Test Engineer with emphasis on automation. 9+ years of experienc
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms](https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html)
 - [Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims](https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html)
 - [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html)
 - [How to Detect Phishing Attacks Faster: Tycoon2FA Example](https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html)
 - [Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps](https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html)
-- [Google Chrome Can Now Auto-Change Compromised Passwords Using Its Built-In Manager](https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html)
 <!-- BLOG-POST-LIST:END -->
