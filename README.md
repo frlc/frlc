@@ -18,7 +18,7 @@ This is my repository where I test code and try not to break my code :rofl:
   
 ### ✨&nbsp; About Me
 
-I am a Software Test Engineer with emphasis on automation. 9+ years of experience.
+I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
