@@ -10,7 +10,6 @@ This is my repository where I test code and try not to break my code :rofl:
 <img align="left" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img align="left" width='50' height='50' src="https://specflow.org/wp-content/uploads/2021/05/SpecFlow-Icon.png" />
 <img align="left" width='50' height='50' src="https://www.svgrepo.com/show/306098/githubactions.svg" />
 <img width='80' height='80' src="https://cdn2.vectorstock.com/i/1000x1000/64/81/security-testing-concept-icon-safety-audit-key-vector-29166481.jpg" />
           
