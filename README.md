@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers](https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html)
 - [China&#39;s Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones](https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html)
 - [UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns](https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html)
 - [Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks](https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html)
-- [Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services](https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html)
 - [CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign](https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html)
 <!-- BLOG-POST-LIST:END -->
