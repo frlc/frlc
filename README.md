@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Kerberoasting Detections: A New Approach to a Decade-Old Challenge](https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html)
 - [Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages](https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html)
 - [CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks](https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html)
 - [CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF](https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html)
 - [Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups](https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html)
-- [Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access](https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html)
 <!-- BLOG-POST-LIST:END -->
