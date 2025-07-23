@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks](https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html)
 - [Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups](https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html)
 - [Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access](https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html)
 - [Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate](https://thehackernews.com/2025/07/credential-theft-and-remote-access.html)
 - [How to Advance from SOC Manager to CISO?](https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html)
-- [Hackers Exploit SharePoint Zero-Day Since July 7 to Steal Keys, Maintain Persistent Access](https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html)
 <!-- BLOG-POST-LIST:END -->
