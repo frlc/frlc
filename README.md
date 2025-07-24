@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace](https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html)
 - [Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access](https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html)
 - [Threat Actor Mimo Targets Magento and Docker to Deploy Crypto Miners and Proxyware](https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html)
 - [New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials](https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html)
 - [Kerberoasting Detections: A New Approach to a Decade-Old Challenge](https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html)
-- [Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages](https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html)
 <!-- BLOG-POST-LIST:END -->
