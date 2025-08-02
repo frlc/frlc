@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft](https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html)
 - [Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices](https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html)
 - [Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection](https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html)
 - [Attackers Use Fake OAuth Apps with Tycoon Kit to Breach Microsoft 365 Accounts](https://thehackernews.com/2025/08/attackers-use-fake-oauth-apps-with.html)
 - [AI-Generated Malicious npm Package Drains Solana Funds from 1,500+ Before Takedown](https://thehackernews.com/2025/08/ai-generated-malicious-npm-package.html)
-- [You Are What You Eat: Why Your AI Security Tools Are Only as Strong as the Data You Feed Them](https://thehackernews.com/2025/08/you-are-what-you-eat-why-your-ai.html)
 <!-- BLOG-POST-LIST:END -->
