@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft](https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html)
 - [Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams](https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html)
 - [AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals](https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html)
 - [Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools](https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html)
 - [Trend Micro Confirms Active Exploitation of Critical Apex One Flaws in On-Premise Systems](https://thehackernews.com/2025/08/trend-micro-confirms-active.html)
-- [CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures](https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html)
 <!-- BLOG-POST-LIST:END -->
