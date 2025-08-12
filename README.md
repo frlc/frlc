@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks](https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html)
 - [Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager](https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html)
 - [Cybercrime Groups ShinyHunters, Scattered Spider Join Forces in Extortion Attacks on Businesses](https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html)
 - [New ‘Curly COMrades’ APT Using NGEN COM Hijacking in Georgia, Moldova Attacks](https://thehackernews.com/2025/08/new-curly-comrades-apt-using-ngen-com.html)
 - [The Ultimate Battle: Enterprise Browsers vs. Secure Browser Extensions](https://thehackernews.com/2025/08/the-ultimate-battle-enterprise-browsers.html)
-- [Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors](https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html)
 <!-- BLOG-POST-LIST:END -->
