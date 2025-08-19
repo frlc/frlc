@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution](https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html)
 - [U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback](https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html)
 - [Why Your Security Culture is Critical to Mitigating Cyber Risk](https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html)
 - [PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks](https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html)
 - [Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures](https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html)
-- [Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware](https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html)
 <!-- BLOG-POST-LIST:END -->
