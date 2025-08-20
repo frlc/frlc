@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts](https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html)
 - [🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do](https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html)
 - [From Impact to Action: Turning BIA Insights Into Resilient Recovery](https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html)
 - [North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms](https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html)
 - [DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks](https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html)
-- [Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems](https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html)
 <!-- BLOG-POST-LIST:END -->
