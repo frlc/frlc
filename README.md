@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers](https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html)
 - [AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html)
 - [ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners](https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html)
 - [HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands](https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html)
 - [Google to Verify All Android Developers in 4 Countries to Block Malicious Apps](https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html)
-- [CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git](https://thehackernews.com/2025/08/cisa-adds-three-exploited.html)
 <!-- BLOG-POST-LIST:END -->
