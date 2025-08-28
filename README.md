@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits](https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html)
 - [Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks](https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html)
 - [Someone Created the First AI-Powered Ransomware Using OpenAI&#39;s gpt-oss:20b Model](https://thehackernews.com/2025/08/someone-created-first-ai-powered.html)
 - [Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors](https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html)
 - [ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots](https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html)
-- [The 5 Golden Rules of Safe AI Adoption](https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html)
 <!-- BLOG-POST-LIST:END -->
