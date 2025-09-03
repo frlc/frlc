@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations](https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html)
 - [Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE](https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html)
 - [Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control](https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html)
 - [Shadow AI Discovery: A Critical Part of Enterprise AI Governance](https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html)
 - [Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices](https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html)
-- [Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware](https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html)
 <!-- BLOG-POST-LIST:END -->
