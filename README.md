@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories](https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html)
 - [Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity](https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html)
 - [Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence](https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html)
 - [Cracking the Boardroom Code: Helping CISOs Speak the Language of Business](https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html)
 - [SonicWall SSL VPN Flaw and Misconfigurations Actively Exploited by Akira Ransomware Hackers](https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html)
-- [Fake Madgicx Plus and SocialMetrics Extensions Are Hijacking Meta Business Accounts](https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html)
 <!-- BLOG-POST-LIST:END -->
