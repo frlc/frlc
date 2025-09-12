@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit](https://thehackernews.com/2025/09/new-hybridpetya-ransomware-bypasses.html)
+- [Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning](https://thehackernews.com/2025/09/critical-cve-2025-5086-in-delmia-apriso.html)
 - [Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage](https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html)
 - [Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories](https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html)
 - [Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity](https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html)
-- [Senator Wyden Urges FTC to Probe Microsoft for Ransomware-Linked Cybersecurity Negligence](https://thehackernews.com/2025/09/senator-wyden-urges-ftc-to-probe.html)
-- [Cracking the Boardroom Code: Helping CISOs Speak the Language of Business](https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html)
 <!-- BLOG-POST-LIST:END -->
