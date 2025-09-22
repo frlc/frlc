@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm &amp; More](https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html)
 - [How to Gain Control of AI Agents and Non-Human Identities](https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html)
 - [Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants](https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html)
 - [DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html)
 - [LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html)
-- [Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html)
 <!-- BLOG-POST-LIST:END -->
