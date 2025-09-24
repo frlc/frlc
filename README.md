@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors](https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html)
 - [Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models](https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html)
 - [How One Bad Password Ended a 158-Year-Old Business](https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html)
 - [New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus](https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html)
 - [iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks](https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html)
-- [Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials](https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html)
 <!-- BLOG-POST-LIST:END -->
