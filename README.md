@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers](https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html)
 - [CTEM&#39;s Core: Prioritization and Validation](https://thehackernews.com/2025/09/ctems-core-prioritization-and-validation.html)
 - [Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal &amp; More](https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html)
 - [Tech Overtakes Gaming as Top DDoS Attack Target, New Gcore Radar Report Finds](https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html)
 - [Malicious Rust Crates Steal Solana and Ethereum Keys — 8,424 Downloads Confirmed](https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html)
-- [Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software](https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html)
 <!-- BLOG-POST-LIST:END -->
