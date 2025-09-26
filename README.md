@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam](https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html)
 - [New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks](https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html)
 - [Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions](https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html)
 - [Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure](https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html)
 - [New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module](https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html)
-- [Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware](https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html)
 <!-- BLOG-POST-LIST:END -->
