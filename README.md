@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising](https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html)
+- [Hackers Exploit Milesight Routers to Send Phishing SMS to European Users](https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html)
 - [New Android Banking Trojan “Klopatra” Uses Hidden VNC to Control Infected Smartphones](https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html)
 - [Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs](https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html)
-- [$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections](https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html)
-- [Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware](https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html)
-- [Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits](https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html)
+- [New $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections](https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html)
 <!-- BLOG-POST-LIST:END -->
