@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer](https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html)
 - [OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps](https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html)
 - [Learn How Leading Security Teams Blend AI + Human Workflows &lpar;Free Webinar&rpar;](https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html)
 - [Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover](https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html)
 - [2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising](https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html)
-- [Hackers Exploit Milesight Routers to Send Phishing SMS to European Users](https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html)
 <!-- BLOG-POST-LIST:END -->
