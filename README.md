@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft&#39;s July Patch](https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html)
 - [Bridging the Remediation Gap: Introducing Pentera Resolve](https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html)
+- [Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys](https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html)
 - [Why You Should Swap Passwords for Passphrases](https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html)
 - [Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html)
-- [TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html)
-- [TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html)
 <!-- BLOG-POST-LIST:END -->
