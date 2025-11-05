@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Securing the Open Android Ecosystem with Samsung Knox](https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html)
+- [Mysterious &#39;SmudgedSerpent&#39; Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions](https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html)
+- [U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud](https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html)
+- [Why SOC Burnout Can Be Avoided: Practical Steps](https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html)
 - [CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence](https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html)
-- [A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces](https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html)
-- [European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep](https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html)
-- [Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks](https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html)
-- [Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed](https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html)
 <!-- BLOG-POST-LIST:END -->
