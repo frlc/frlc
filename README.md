@@ -21,7 +21,7 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
-- [Over 46,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html)
+- [Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html)
 - [Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform](https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html)
 - [Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws](https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html)
 - [[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR](https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html)
