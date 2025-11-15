@@ -21,7 +21,7 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
-- [Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate 136 Companies](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html)
+- [Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html)
 - [North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels](https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html)
 - [Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks](https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html)
 - [Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp; Government Targets](https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html)
