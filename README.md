@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
 - [Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale](https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html)
 - [Researchers Detail Tuoni C2&#39;s Role in an Attempted 2025 Real-Estate Cyber Intrusion](https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html)
 - [Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks](https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html)
 - [Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities](https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html)
-- [Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages](https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html)
 <!-- BLOG-POST-LIST:END -->
