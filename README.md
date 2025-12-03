@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts](https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html)
 - [Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud](https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html)
 - [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html)
 - [Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage](https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html)
 - [Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code](https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html)
-- [Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems](https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html)
 <!-- BLOG-POST-LIST:END -->
