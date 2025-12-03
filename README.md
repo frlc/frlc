@@ -25,5 +25,5 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 - [Researchers Capture Lazarus APT&#39;s Remote-Worker Scheme Live on Camera](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html)
 - [GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html)
 - [Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools](https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html)
-- [Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html)
+- [Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html)
 <!-- BLOG-POST-LIST:END -->
