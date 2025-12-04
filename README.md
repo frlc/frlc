@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html)
+- [5 Threats That Reshaped Web Security This Year [2025]](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html)
 - [GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections](https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html)
 - [Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts](https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html)
 - [Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html)
-- [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html)
-- [Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html)
 <!-- BLOG-POST-LIST:END -->
