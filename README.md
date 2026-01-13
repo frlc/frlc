@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
 - [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 - [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching &amp; More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
 - [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
 - [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
-- [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html)
 <!-- BLOG-POST-LIST:END -->
