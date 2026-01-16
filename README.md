@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
 - [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
 - [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
 - [China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
 - [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
-- [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 <!-- BLOG-POST-LIST:END -->
