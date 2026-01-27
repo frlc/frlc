@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Office Zero-Day &lpar;CVE-2026-21509&rpar; - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
 - [Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html)
 - [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
 - [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs &amp; More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
 - [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
-- [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
 <!-- BLOG-POST-LIST:END -->
