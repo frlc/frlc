@@ -21,9 +21,9 @@ I am a SDET with emphasis on automation. 9+ years of experience.
 
 # Security News
 <!-- BLOG-POST-LIST:START -->
+- [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
+- [54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
 - [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish &amp; More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
 - [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
 - [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
-- [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
-- [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 <!-- BLOG-POST-LIST:END -->
