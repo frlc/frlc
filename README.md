@@ -11,9 +11,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://thehackernews.com/" target="_blank">
-    <img src="https://img.shields.io/badge/The%20Hacker%20News-FF0000?style=for-the-badge&logo=hackernews&logoColor=white" alt="The Hacker News" />
-  </a>
 </p>
 
 ---
