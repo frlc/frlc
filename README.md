@@ -85,7 +85,11 @@
 > 🔄 Auto-updated every 6 hours · Sources: [THN — DevOps](https://thehackernews.com/search/label/DevOps) · [DevOps.com](https://devops.com/)
 
 <!-- DEVOPS-POST-LIST:START -->
-- Stay tuned — updates coming automatically!
+- [Critical Microsoft GitHub Flaw Highlights Dangers to CI/CD Pipelines: Tenable](https://devops.com/critical-microsoft-github-flaw-highlights-dangers-to-ci-cd-pipelines-tenable/)
+- [DevOps Experience 2026: The DevOps Community Confronts the Agentic AI Race](https://devops.com/devops-experience-2026-the-devops-community-confronts-the-agentic-ai-race/)
+- [Eclipse Foundation Unfurls Managed VSX Registry Service](https://devops.com/eclipse-foundation-unfurls-managed-vsx-registry-service/)
+- [Grafana Labs Extends Observability Reach Deeper Into AI](https://devops.com/grafana-labs-extends-observability-reach-deeper-into-ai/)
+- [Coralogix Taps Skyflow to Anonymize Log Data Using Tokens](https://devops.com/coralogix-taps-skyflow-to-anonymize-log-data-using-tokens/)
 <!-- DEVOPS-POST-LIST:END -->
 
 ---
