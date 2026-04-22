@@ -1,23 +1,87 @@
-name: Update Security News
+name: Update News Feeds
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'   # A cada 6 horas
+  workflow_dispatch:          # Disparo manual pela aba Actions
 
 jobs:
-  update-readme:
+
+  # ─────────────────────────────────────────────
+  # 1. SECURITY NEWS — The Hacker News (geral)
+  # ─────────────────────────────────────────────
+  update-security-news:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feeds.feedburner.com/TheHackersNews"
           max_post_count: 5
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+  # ─────────────────────────────────────────────
+  # 2. DEVSECOPS NEWS — The Hacker News (label)
+  # ─────────────────────────────────────────────
+  update-devsecops-news:
+    runs-on: ubuntu-latest
+    needs: update-security-news      # aguarda o job anterior terminar
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://thehackernews.com/feeds/posts/default/-/DevSecOps"
+          max_post_count: 5
+          readme_path: README.md
+          comment_tag_name: DEVSECOPS-POST-LIST
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+  # ─────────────────────────────────────────────
+  # 3. DEVOPS NEWS — THN + DevOps.com
+  # ─────────────────────────────────────────────
+  update-devops-news:
+    runs-on: ubuntu-latest
+    needs: update-devsecops-news
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: >-
+            https://thehackernews.com/feeds/posts/default/-/DevOps,
+            https://devops.com/feed/
+          max_post_count: 5
+          readme_path: README.md
+          comment_tag_name: DEVOPS-POST-LIST
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+  # ─────────────────────────────────────────────
+  # 4. QA AUTOMATION NEWS — TestGuild + Ministry of Testing
+  # ─────────────────────────────────────────────
+  update-qa-news:
+    runs-on: ubuntu-latest
+    needs: update-devops-news
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: >-
+            https://testguild.com/feed,
+            https://feeds.feedburner.com/mottestingfeeds
+          max_post_count: 5
+          readme_path: README.md
+          comment_tag_name: QA-POST-LIST
           gh_token: ${{ secrets.GITHUB_TOKEN }}
