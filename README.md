@@ -54,7 +54,7 @@
 
 ## 📰 Security News
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions · Source: [The Hacker News](https://thehackernews.com/)
+> 🔄 Auto-updated every 6 hours · Source: [The Hacker News](https://thehackernews.com/)
 
 <!-- BLOG-POST-LIST:START -->
 - [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
@@ -68,7 +68,7 @@
 
 ## 🛡️ DevSecOps News
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions · Source: [THN — DevSecOps](https://thehackernews.com/search/label/DevSecOps)
+> 🔄 Auto-updated every 6 hours · Source: [THN — DevSecOps](https://thehackernews.com/search/label/DevSecOps)
 
 <!-- DEVSECOPS-POST-LIST:START -->
 - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
@@ -82,11 +82,21 @@
 
 ## ⚙️ DevOps News
 
-> 🔄 Auto-updated every 6 hours via GitHub Actions · Sources: [THN — DevOps](https://thehackernews.com/search/label/DevOps) · [DevOps.com](https://devops.com/)
+> 🔄 Auto-updated every 6 hours · Sources: [THN — DevOps](https://thehackernews.com/search/label/DevOps) · [DevOps.com](https://devops.com/)
 
 <!-- DEVOPS-POST-LIST:START -->
 - Stay tuned — updates coming automatically!
 <!-- DEVOPS-POST-LIST:END -->
+
+---
+
+## 🤖 QA Automation News
+
+> 🔄 Auto-updated every 6 hours · Sources: [TestGuild](https://testguild.com) · [Ministry of Testing](https://ministryoftesting.com)
+
+<!-- QA-POST-LIST:START -->
+- Stay tuned — updates coming automatically!
+<!-- QA-POST-LIST:END -->
 
 ---
 
