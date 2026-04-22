@@ -71,11 +71,11 @@
 > 🔄 Auto-updated every 6 hours · Source: [THN — DevSecOps](https://thehackernews.com/search/label/DevSecOps)
 
 <!-- DEVSECOPS-POST-LIST:START -->
-- [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
-- [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
-- [npm's Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
-- [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
-- [PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs](https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html)
+- [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
+- [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk &lpar;2026 Report&rpar;](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
+- [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
+- [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
+- [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
 <!-- DEVSECOPS-POST-LIST:END -->
 
 ---
