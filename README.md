@@ -99,7 +99,11 @@
 > 🔄 Auto-updated every 6 hours · Sources: [TestGuild](https://testguild.com) · [Ministry of Testing](https://ministryoftesting.com)
 
 <!-- QA-POST-LIST:START -->
-- Stay tuned — updates coming automatically!
+- [Sprint &amp;amp; Release Reports: The Missing QA Practice That Drives Real Quality](https://medium.com/@marinacruzjordao/sprint-release-reports-the-missing-qa-practice-that-drives-real-quality-5fc054a85784?source=rss-a6f7e93e4f93------2)
+- [You’re not ready for Quality Engineering](https://cakehurstryan.com/2026/04/21/youre-not-ready-for-quality-engineering/)
+- [Software Testing Live 07](https://www.workroom-productions.com/mot-testing-live-07/)
+- [Why Your CI Test Suite Keeps Getting Slower](https://dev-tester.com/why-your-ci-test-suite-keeps-getting-slower/)
+- [Talk to the Machine, or Why We Chat with AI But Not Each Other](https://testpappy.wordpress.com/2026/04/21/talk-to-the-machine-or-why-we-chat-with-ai-but-not-each-other/)
 <!-- QA-POST-LIST:END -->
 
 ---
