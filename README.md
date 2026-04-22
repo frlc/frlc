@@ -1,25 +1,61 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is my repository where I test code and try not to break my code :rofl:
+### Hi there <a href="https://www.linkedin.com/in/fernandorlcruz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-🔗 &nbsp;**Connect with me**
+> 🧪 This is my repository where I test code and try not to break things — emphasis on *try* 😂
+
+---
+
+## 🔗 Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/fernandorlcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando cruz" height="30" width="40" /></a>
-  
-📊 &nbsp;**I am currently focused on:**
+  <a href="https://linkedin.com/in/fernandorlcruz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://thehackernews.com/" target="_blank">
+    <img src="https://img.shields.io/badge/The%20Hacker%20News-FF0000?style=for-the-badge&logo=hackernews&logoColor=white" alt="The Hacker News" />
+  </a>
+</p>
 
-<img align="left" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img align="left" width='50' height='50' src="https://www.svgrepo.com/show/306098/githubactions.svg" />
-<img width='80' height='80' src="https://cdn2.vectorstock.com/i/1000x1000/64/81/security-testing-concept-icon-safety-audit-key-vector-29166481.jpg" />
-          
-          
-  
-### ✨&nbsp; About Me
+---
 
-I am a SDET and QAOPs with emphasis on automation. 9+ years of experience.
+## ✨ About Me
 
-# Security News
+**SDET & QAOps Engineer** with 9+ years of experience, specializing in test automation, DevSecOps pipelines, and quality engineering at scale.
+
+---
+
+## 🛠️ Tech Stack & Focus Areas
+
+### 🤖 Automation & QA
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+
+### ⚙️ DevOps & CI/CD
+<p align="left">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+### 🔐 Security & DevSecOps
+<p align="left">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white" alt="Trivy" />
+</p>
+
+---
+
+## 📰 Security News
+
+> 🔄 Auto-updated every 6 hours via GitHub Actions · Source: [The Hacker News](https://thehackernews.com/)
+
 <!-- BLOG-POST-LIST:START -->
 - [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
 - [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
@@ -27,3 +63,33 @@ I am a SDET and QAOPs with emphasis on automation. 9+ years of experience.
 - [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 - [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🛡️ DevSecOps News
+
+> 🔄 Auto-updated every 6 hours via GitHub Actions · Source: [THN — DevSecOps](https://thehackernews.com/search/label/DevSecOps)
+
+<!-- DEVSECOPS-POST-LIST:START -->
+- [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+- [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+- [npm's Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
+- [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+- [PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs](https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html)
+<!-- DEVSECOPS-POST-LIST:END -->
+
+---
+
+## ⚙️ DevOps News
+
+> 🔄 Auto-updated every 6 hours via GitHub Actions · Sources: [THN — DevOps](https://thehackernews.com/search/label/DevOps) · [DevOps.com](https://devops.com/)
+
+<!-- DEVOPS-POST-LIST:START -->
+- Stay tuned — updates coming automatically!
+<!-- DEVOPS-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frlc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
