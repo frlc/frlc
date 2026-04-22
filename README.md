@@ -10,19 +10,14 @@
   <a href="https://linkedin.com/in/fernandorlcruz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://thehackernews.com/" target="_blank">
-    <img src="https://img.shields.io/badge/The%20Hacker%20News-FF0000?style=for-the-badge&logo=hackernews&logoColor=white" alt="The Hacker News" />
-  </a>
+  &nbsp;  
 </p>
 
----
 
 ## ✨ About Me
 
 **SDET & QAOps Engineer** with 9+ years of experience, specializing in test automation, DevSecOps pipelines, and quality engineering at scale.
 
----
 
 ## 🛠️ Tech Stack & Focus Areas
 
@@ -60,12 +55,7 @@
     height="180"
     alt="GitHub Stats"
   />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frlc&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
+  &nbsp;  
 </p>
 
 <p align="center">
@@ -81,15 +71,6 @@
     alt="Activity Graph"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=frlc&theme=darkhub&no-frame=true&row=1&column=7"
-    alt="Trophies"
-  />
-</p>
-
----
 
 ## 📰 Security News
 
