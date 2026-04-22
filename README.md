@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://thehackernews.com/" target="_blank">
+    <img src="https://img.shields.io/badge/The%20Hacker%20News-FF0000?style=for-the-badge&logo=hackernews&logoColor=white" alt="The Hacker News" />
+  </a>
 </p>
 
 ---
@@ -49,6 +52,45 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=frlc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frlc&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=frlc&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=frlc&theme=react-dark&hide_border=true&area=true"
+    alt="Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=frlc&theme=darkhub&no-frame=true&row=1&column=7"
+    alt="Trophies"
+  />
+</p>
+
+---
+
 ## 📰 Security News
 
 > 🔄 Auto-updated every 6 hours · Source: [The Hacker News](https://thehackernews.com/)
@@ -68,11 +110,11 @@
 > 🔄 Auto-updated every 6 hours · Source: [THN — DevSecOps](https://thehackernews.com/search/label/DevSecOps)
 
 <!-- DEVSECOPS-POST-LIST:START -->
-- [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
-- [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk &lpar;2026 Report&rpar;](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
-- [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
-- [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
-- [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
+- [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+- [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+- [npm's Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
+- [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+- [PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs](https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html)
 <!-- DEVSECOPS-POST-LIST:END -->
 
 ---
@@ -82,25 +124,17 @@
 > 🔄 Auto-updated every 6 hours · Sources: [THN — DevOps](https://thehackernews.com/search/label/DevOps) · [DevOps.com](https://devops.com/)
 
 <!-- DEVOPS-POST-LIST:START -->
-- [Critical Microsoft GitHub Flaw Highlights Dangers to CI/CD Pipelines: Tenable](https://devops.com/critical-microsoft-github-flaw-highlights-dangers-to-ci-cd-pipelines-tenable/)
-- [DevOps Experience 2026: The DevOps Community Confronts the Agentic AI Race](https://devops.com/devops-experience-2026-the-devops-community-confronts-the-agentic-ai-race/)
-- [Eclipse Foundation Unfurls Managed VSX Registry Service](https://devops.com/eclipse-foundation-unfurls-managed-vsx-registry-service/)
-- [Grafana Labs Extends Observability Reach Deeper Into AI](https://devops.com/grafana-labs-extends-observability-reach-deeper-into-ai/)
-- [Coralogix Taps Skyflow to Anonymize Log Data Using Tokens](https://devops.com/coralogix-taps-skyflow-to-anonymize-log-data-using-tokens/)
+- Stay tuned — updates coming automatically!
 <!-- DEVOPS-POST-LIST:END -->
 
 ---
 
 ## 🤖 QA Automation News
 
-> 🔄 Auto-updated every 6 hours · Sources: [TestGuild](https://testguild.com) · [Ministry of Testing](https://ministryoftesting.com)
+> 🔄 Auto-updated every 6 hours · Sources: [TestRail](https://www.testrail.com/blog) · [Ministry of Testing](https://ministryoftesting.com) · [Automation Panda](https://automationpanda.com) · [Ultimate QA](https://ultimateqa.com)
 
 <!-- QA-POST-LIST:START -->
-- [Sprint &amp;amp; Release Reports: The Missing QA Practice That Drives Real Quality](https://medium.com/@marinacruzjordao/sprint-release-reports-the-missing-qa-practice-that-drives-real-quality-5fc054a85784?source=rss-a6f7e93e4f93------2)
-- [You’re not ready for Quality Engineering](https://cakehurstryan.com/2026/04/21/youre-not-ready-for-quality-engineering/)
-- [Software Testing Live 07](https://www.workroom-productions.com/mot-testing-live-07/)
-- [Why Your CI Test Suite Keeps Getting Slower](https://dev-tester.com/why-your-ci-test-suite-keeps-getting-slower/)
-- [Talk to the Machine, or Why We Chat with AI But Not Each Other](https://testpappy.wordpress.com/2026/04/21/talk-to-the-machine-or-why-we-chat-with-ai-but-not-each-other/)
+- Stay tuned — updates coming automatically!
 <!-- QA-POST-LIST:END -->
 
 ---
